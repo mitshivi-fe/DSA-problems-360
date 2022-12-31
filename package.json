@@ -1,0 +1,19 @@
+{
+  "name": "dsa-360-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitshivi-fe/DSA-problems-360.git"
+  },
+  "author": "Shivi Mittal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitshivi-fe/DSA-problems-360/issues"
+  },
+  "homepage": "https://github.com/mitshivi-fe/DSA-problems-360#readme"
+}
